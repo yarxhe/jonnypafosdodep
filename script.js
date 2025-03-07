@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
     setProfileAvatar('images/avatar.png'); // Локальный аватар
     setBanItemImage('ban-item-img-1', 'images/boston.png');
     setBanItemImage('ban-item-img-2', 'images/Tundra.png');
-    setBanItemImage('ban-item-img-3', 'images/Faze_Clan.png');
+    setBanItemImage('ban-item-img-3', 'images/Faze_Clan.svg');
 
     // Социальные сети
     setSocialLink('instagram-link', 'https://instagram.com/jonnypaFosdodep');
